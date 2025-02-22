@@ -80,7 +80,6 @@ nl-to-sql-selector/
 ---
 
 ## 📌 Dependencies
-- `fuzzywuzzy`
 - `nltk`
 - `openai`
 
