@@ -95,8 +95,3 @@ nl-to-sql-selector/
 
 ---
 
-## 📝 License
-This project is licensed under the MIT License.
-
-Contributions are welcome! Feel free to submit a pull request with your improvements. 🚀
-
